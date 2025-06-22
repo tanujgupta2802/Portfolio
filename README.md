@@ -33,7 +33,8 @@ Deployed on **Vercel** and open-sourced on **GitHub**.
 
 ## 📸 Screenshots
 
-> *(Optional: Add screenshots of your website here if needed)*
+> https://github.com/user-attachments/assets/56c62d85-95eb-47c2-a484-4e3322766d15
+
 
 ---
 
