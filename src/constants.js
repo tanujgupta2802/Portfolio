@@ -19,7 +19,7 @@ import vscodeLogo from "./assets/tech_logo/vscode.png";
 // import mcLogo from "./assets/tech_logo/mc.png";
 import postgreLogo from "./assets/tech_logo/postgre.png";
 // import profile from "./assets/profile_logo/profile.png";
-import wyspireLogo from "./assets/Company_logo/Wyspire.jpeg";
+import wyspireLogo from "./assets/Company_logo/wyspire.jpeg";
 import tgfLogo from "./assets/project_logos/TGF.png";
 import fashionStoreLogo from "./assets/project_logos/FashionStore.png";
 import groceryLogo from "./assets/project_logos/GroceryApp.png";
