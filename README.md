@@ -16,7 +16,6 @@ Deployed on **Vercel** and open-sourced on **GitHub**.
 ## 🔗 Live Demo
 
 🌐 [Visit Portfolio](https://portfolio-ui-ten.vercel.app/)  
-*(replace with your actual deployed link)*
 
 ---
 
