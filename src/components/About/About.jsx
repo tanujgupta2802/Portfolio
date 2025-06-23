@@ -46,8 +46,8 @@ const About = () => {
             strong understanding of object-oriented programming concepts.
           </p>
           <a
-            href="https://drive.google.com/file/d/1QicTCR0_hd3rKoGXQ-rda5LA1enI5L0C/view?usp=sharing"
-            // href="https://drive.google.com/file/d/1Qw2qMoTAEaXmyNwlB1YCpfr32ib4vzj3/view?usp=sharing"
+            href="https://drive.google.com/file/d/1R-IVgHcDYP6d2_NTdseX-hCApJqxM3HI/view?usp=sharing"
+            // href="https://drive.google.com/file/d/1QicTCR0_hd3rKoGXQ-rda5LA1enI5L0C/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-2 px-6 rounded-full text-sm font-semibold transition duration-300 hover:scale-105"
