@@ -46,7 +46,7 @@ const About = () => {
             strong understanding of object-oriented programming concepts.
           </p>
           <a
-            href="https://drive.google.com/file/d/1R-IVgHcDYP6d2_NTdseX-hCApJqxM3HI/view?usp=sharing"
+            href="https://drive.google.com/file/d/1RH_dYARqtmOoY-vSbcDKHXI3qeYm8Ga1/view?usp=sharing"
             // href="https://drive.google.com/file/d/1QicTCR0_hd3rKoGXQ-rda5LA1enI5L0C/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
