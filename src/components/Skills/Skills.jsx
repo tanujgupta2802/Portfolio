@@ -23,7 +23,7 @@ const Skills = () => {
             <h3 className="text-2xl text-gray-400 font-semibold text-center mb-5">
               {category.title}
             </h3>
-            <Tilt
+            {/* <Tilt
               className="rounded-full"
               tiltMaxAngleX={15}
               tiltMaxAngleY={15}
@@ -31,25 +31,25 @@ const Skills = () => {
               scale={1.03}
               transitionSpeed={1000}
               gyroscope={true}
-            >
-              <div className="grid grid-cols-2 gap-3">
-                {category.skills.map((skills) => (
-                  <div
-                    key={skills.name}
-                    className="flex justify-start items-center w-full py-2 px-3 border border-gray-400 rounded-4xl"
-                  >
-                    <img
-                      src={skills.logo}
-                      alt={`${skills.name} logo`}
-                      className="h-6 w-6"
-                    />
-                    <span className="text-sm text-gray-300 pl-4">
-                      {skills.name}
-                    </span>
-                  </div>
-                ))}
-              </div>
-            </Tilt>
+            > */}
+            <div className="grid grid-cols-2 gap-3">
+              {category.skills.map((skills) => (
+                <div
+                  key={skills.name}
+                  className="flex justify-start items-center w-full py-2 px-3 border border-gray-400 rounded-4xl"
+                >
+                  <img
+                    src={skills.logo}
+                    alt={`${skills.name} logo`}
+                    className="h-6 w-6"
+                  />
+                  <span className="text-sm text-gray-300 pl-4">
+                    {skills.name}
+                  </span>
+                </div>
+              ))}
+            </div>
+            {/* </Tilt> */}
           </div>
         ))}
       </div>
