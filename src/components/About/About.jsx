@@ -61,7 +61,7 @@ const About = () => {
 
         {/* Right Side */}
         <div className="md:w-[40%] flex justify-center md:justify-end ml-[-10px]">
-          {/* <Tilt
+          <Tilt
             className="w-66 h-66 sm:w-78 sm:h-78 md:w-90 md:h-90 rounded-full"
             tiltMaxAngleX={15}
             tiltMaxAngleY={15}
@@ -69,13 +69,13 @@ const About = () => {
             scale={1.03}
             transitionSpeed={1000}
             gyroscope={true}
-          > */}
-          <img
-            src={profileImage}
-            alt="Tarun Kaushik"
-            className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.4)]"
-          />
-          {/* </Tilt> */}
+          >
+            <img
+              src={profileImage}
+              alt="Tarun Kaushik"
+              className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.4)]"
+            />
+          </Tilt>
         </div>
       </div>
     </section>
