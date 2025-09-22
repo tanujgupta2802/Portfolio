@@ -38,14 +38,13 @@ const About = () => {
           </h3>
           <p className="text-sm sm:text-base text-gray-400 mb-8 leading-relaxed">
             I’m a Full Stack MERN Developer passionate about building
-            intelligent,
-            <br /> AI-powered applications by combining modern web technologies
-            along with Generative AI. Alongside, I have gained a solid
-            foundation in Java and developed a strong understanding of
+            intelligent, AI-powered applications by combining modern web
+            technologies along with Generative AI. Alongside, I have gained a
+            solid foundation in Java and developed a strong understanding of
             object-oriented programming concepts.
           </p>
           <a
-            href="https://drive.google.com/file/d/1MTMtLLWcQByRK_g8T1z-uuv2kDZnIUNz/view?usp=sharing"
+            href="https://drive.google.com/file/d/12Wd35T1JUpoZwvT0QeQIzqjdnhlqmUVH/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-2 px-6 rounded-full text-sm font-semibold transition duration-300 hover:scale-105"
