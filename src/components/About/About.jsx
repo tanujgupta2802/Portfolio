@@ -47,7 +47,7 @@ const About = () => {
             href="https://drive.google.com/file/d/12Wd35T1JUpoZwvT0QeQIzqjdnhlqmUVH/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block text-white py-2 px-6 rounded-full text-sm font-semibold transition duration-300 hover:scale-105 mb-15 sm:mb-1"
+            className="inline-block text-white py-2 px-6 rounded-full text-sm font-semibold transition duration-300 hover:scale-105"
             style={{
               background: "linear-gradient(90deg, #8245ec, #a855f7)",
               boxShadow: "0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 20px #8245ec",
