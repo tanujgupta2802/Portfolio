@@ -23,10 +23,8 @@ const About = () => {
             <span className="text-[#8245ec]">
               <Typewriter
                 words={[
-                  "React Developer",
-                  "Front End Developer",
-                  "Full Stack Enthusiast",
-                  "MERN Stack Developer",
+                  "Full Stack MERN Developer",
+                  "Generative AI Enthusiast",
                   "Java Programmer",
                 ]}
                 loop={true}
@@ -39,14 +37,15 @@ const About = () => {
             </span>
           </h3>
           <p className="text-sm sm:text-base text-gray-400 mb-8 leading-relaxed">
-            I'm currently working on the MERN stack, where I’m continuously
-            enhancing my skills in building responsive front-end interfaces and
-            robust back-end systems using modern JavaScript frameworks.
-            Alongside, I have gained a solid foundation in Java and developed a
-            strong understanding of object-oriented programming concepts.
+            I’m a Full Stack MERN Developer passionate about building
+            intelligent,
+            <br /> AI-powered applications by combining modern web technologies
+            along with Generative AI. Alongside, I have gained a solid
+            foundation in Java and developed a strong understanding of
+            object-oriented programming concepts.
           </p>
           <a
-            href="https://drive.google.com/file/d/1UM2JPsmom_HZ1ItjPLcxxGJJ5g8seAn4/view?usp=sharing"
+            href="https://drive.google.com/file/d/1MTMtLLWcQByRK_g8T1z-uuv2kDZnIUNz/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-2 px-6 rounded-full text-sm font-semibold transition duration-300 hover:scale-105"
@@ -60,22 +59,12 @@ const About = () => {
         </div>
 
         {/* Right Side */}
-        <div className="md:w-[40%] flex justify-center md:justify-end ml-[-10px]">
-          <Tilt
-            className="w-66 h-66 sm:w-78 sm:h-78 md:w-90 md:h-90 rounded-full"
-            tiltMaxAngleX={15}
-            tiltMaxAngleY={15}
-            perspective={1000}
-            scale={1.03}
-            transitionSpeed={1000}
-            gyroscope={true}
-          >
-            <img
-              src={profileImage}
-              alt="Tarun Kaushik"
-              className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.4)]"
-            />
-          </Tilt>
+        <div className="md:w-[35%] flex justify-center md:justify-end ml-[-10px]">
+          <img
+            src={profileImage}
+            alt="Tarun Kaushik"
+            className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.4)]"
+          />
         </div>
       </div>
     </section>
