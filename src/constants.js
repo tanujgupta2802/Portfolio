@@ -29,7 +29,7 @@ import pythonLogo from "./assets/tech_logo/pythonLogo.png";
 import nextjsLogo from "./assets/tech_logo/NextJSLogo.svg";
 import renderLogo from "./assets/tech_logo/renderLogo.jpg";
 import vercelLogo from "./assets/tech_logo/verceLogo.png";
-import codecLogo from "./assets/Company_logo/codecTechLogo.jpg";
+import codecLogo from "./assets/Company_logo/CodecTechLogo.jpg";
 import promptifyPhoto from "./assets/project_logos/promptifyPhoto.png";
 import chatMitraPhoto from "./assets/project_logos/chatMitraPhoto.png";
 import movieMindPhoto from "./assets/project_logos/movieMindPhoto.png";
