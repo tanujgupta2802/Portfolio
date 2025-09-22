@@ -30,12 +30,6 @@ Deployed on **Vercel** and open-sourced on **GitHub**.
 
 ---
 
-## 📸 Screenshots
-
-> https://github.com/user-attachments/assets/56c62d85-95eb-47c2-a484-4e3322766d15
-
-
----
 
 ## 📄 License
 
@@ -43,4 +37,5 @@ This project is open-source and free to use.
 
 ---
 
-### 🙌 Made with ❤️ by [Tanuj Gupta](https://www.linkedin.com/in/tanuj-gupta-45903b290)
+### 🙌 Made with ❤️ by Tanuj Gupta
+LinkedIn: (https://www.linkedin.com/in/tanuj-gupta-45903b290)
