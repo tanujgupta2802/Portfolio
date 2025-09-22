@@ -47,7 +47,7 @@ const About = () => {
             href="https://drive.google.com/file/d/12Wd35T1JUpoZwvT0QeQIzqjdnhlqmUVH/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block text-white py-2 px-6 rounded-full text-sm font-semibold transition duration-300 hover:scale-105"
+            className="inline-block text-white py-2 px-6 rounded-full text-sm font-semibold transition duration-300 hover:scale-105 mb-15 sm:mb-1"
             style={{
               background: "linear-gradient(90deg, #8245ec, #a855f7)",
               boxShadow: "0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 20px #8245ec",
@@ -58,10 +58,10 @@ const About = () => {
         </div>
 
         {/* Right Side */}
-        <div className="md:w-[35%] flex justify-center md:justify-end ml-[-10px]">
+        <div className="w-[60%] sm:w-[32%] flex justify-center md:justify-end ml-[-10px]">
           <img
             src={profileImage}
-            alt="Tarun Kaushik"
+            alt="Tanuj Gupta"
             className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.4)]"
           />
         </div>
